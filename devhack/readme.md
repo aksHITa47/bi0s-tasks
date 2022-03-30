@@ -1,6 +1,7 @@
 # devhack
 
 ## a - 158
+
 ### Equation
 
 `(A+B+C).D.(A'BD' + AB'C'D) = (A+B+C).(AB'C'D) = AB'C'D`
@@ -18,3 +19,5 @@
 ## b - 206
 
 ## Flag
+
+flag{PEP}
